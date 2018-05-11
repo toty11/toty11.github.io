@@ -1,0 +1,137 @@
+{
+  "input": "971",
+  "cities": [
+    {
+      "code": 97128,
+      "city": "GOYAVE"
+    },
+    {
+      "code": 97126,
+      "city": "DESHAIES"
+    },
+    {
+      "code": 97112,
+      "city": "GRAND-BOURG"
+    },
+    {
+      "code": 97139,
+      "city": "LES ABYMES"
+    },
+    {
+      "code": 97142,
+      "city": "LES ABYMES"
+    },
+    {
+      "code": 97129,
+      "city": "LAMENTIN"
+    },
+    {
+      "code": 97114,
+      "city": "TROIS-RIVIERES"
+    },
+    {
+      "code": 97127,
+      "city": "LA DESIRADE"
+    },
+    {
+      "code": 97118,
+      "city": "SAINT-FRANCOIS"
+    },
+    {
+      "code": 97121,
+      "city": "ANSE-BERTRAND"
+    },
+    {
+      "code": 97113,
+      "city": "GOURBEYRE"
+    },
+    {
+      "code": 97140,
+      "city": "CAPESTERRE-DE-MARIE-GALANTE"
+    },
+    {
+      "code": 97160,
+      "city": "LE MOULE"
+    },
+    {
+      "code": 97117,
+      "city": "PORT-LOUIS"
+    },
+    {
+      "code": 97131,
+      "city": "PETIT-CANAL"
+    },
+    {
+      "code": 97141,
+      "city": "VIEUX-FORT"
+    },
+    {
+      "code": 97119,
+      "city": "VIEUX-HABITANTS"
+    },
+    {
+      "code": 97122,
+      "city": "BAIE-MAHAULT"
+    },
+    {
+      "code": 97111,
+      "city": "MORNE-A-L'EAU"
+    },
+    {
+      "code": 97134,
+      "city": "SAINT-LOUIS"
+    },
+    {
+      "code": 97115,
+      "city": "SAINTE-ROSE"
+    },
+    {
+      "code": 97116,
+      "city": "POINTE-NOIRE"
+    },
+    {
+      "code": 97100,
+      "city": "BASSE-TERRE"
+    },
+    {
+      "code": 97123,
+      "city": "BAILLIF"
+    },
+    {
+      "code": 97120,
+      "city": "SAINT-CLAUDE"
+    },
+    {
+      "code": 97125,
+      "city": "BOUILLANTE"
+    },
+    {
+      "code": 97136,
+      "city": "TERRE-DE-BAS"
+    },
+    {
+      "code": 97137,
+      "city": "TERRE-DE-HAUT"
+    },
+    {
+      "code": 97110,
+      "city": "POINTE-A-PITRE"
+    },
+    {
+      "code": 97180,
+      "city": "SAINTE-ANNE"
+    },
+    {
+      "code": 97190,
+      "city": "LE GOSIER"
+    },
+    {
+      "code": 97170,
+      "city": "PETIT-BOURG"
+    },
+    {
+      "code": 97130,
+      "city": "CAPESTERRE-BELLE-EAU"
+    }
+  ]
+}
