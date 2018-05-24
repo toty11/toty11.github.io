@@ -1,5 +1,30 @@
 .caption2 {
     position: absolute;
     top: 135%;
-    left: 100px;
+    left: 5%;  
+}
+@media(max-width:600px){
+    .caption2{
+        position: absolute;
+        top: 175%;
+        left: 10%; 
+    }
+}
+@media(min-width:600px){
+    .caption2{
+        position: absolute;
+        top: 165%;
+        left: 10%; 
+    }
+}
+@media(min-width:768px){
+    .caption2{
+        position: absolute;
+        top: 165%;
+        left: 10%; 
+    }
+}
+
+img{
+    display: block;
 }
