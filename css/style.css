@@ -1,68 +1,14 @@
 .caption2 {
-    position: absolute;
     top: 145%;
     left: 5%;  
     right: 5%;
 }
 
-@media screen and (max-width:1024px){
+@media (max-width: 1024px){
     .caption2 {
-        position: absolute;
-        top: 75%;
-        left: 5%;  
-        right: 5%;
-    }
+        display:none;
+    }  
 }
-@media screen and (max-width:768px){
-    .caption2 {
-        position: absolute;
-        top: 105%;
-        left: 5%;  
-        right: 5%;
-    }
-}
-
-@media screen and (max-width:414px){
-    .caption2 {
-        position: absolute;
-        top: 140%;
-        left: 5%;  
-        right: 5%; 
-    }
-}
-@media screen and (max-width:375px) and (max-height:812px){
-    .caption2 {
-        position: absolute;
-        top: 150%;
-        left: 5%;  
-        right: 5%; 
-    }
-}
-@media screen and (max-width:375px){
-    .caption2 {
-        position: absolute;
-        top: 180%;
-        left: 5%;  
-        right: 5%; 
-    }
-}
-@media screen and (max-width:360px){
-    .caption2 {
-        position: absolute;
-        top: 190%;
-        left: 5%;  
-        right: 5%; 
-    }
-}
-@media screen and (max-width:320px){
-    .caption2 {
-        position: absolute;
-        top: 210%;
-        left: 5%;  
-        right: 5%; 
-    }
-}
-
 
 img{
     display: block;
