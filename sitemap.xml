@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+    <url>
+        <loc>http://www.as-plus.com</loc>
+        <priority>1.0</priority>
+    </url>
+
+  <url>
+    <loc>http://www..fr/index.html</loc> 
+    <priority>0.8</priority>
+    <image:image>
+        <image:loc>http://example.com/image/image2.jpg</image:loc>
+        <image:caption>Classement de document</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>http://www..fr/offres.html</loc> 
+    <priority>0.8</priority>
+    <image:image>
+        <image:loc>http://example.com/image/archive.png</image:loc>
+        <image:caption>Image de tiroire</image:caption>
+    </image:image>
+    <image:image>
+        <image:loc>http://example.com/image/printer-offset.png</image:loc>
+        <image:caption>Image d'imprimante</image:caption>
+    </image:image>
+    <image:image>
+        <image:loc>http://example.com/image/support.png</image:loc>
+        <image:caption>Télé-bureautique</image:caption>
+    </image:image>
+    <image:image>
+        <image:loc>http://example.com/image/cursor.png</image:loc>
+        <image:caption>Curseur de souris</image:caption>
+    </image:image>
+  </url>
+</urlset>
+

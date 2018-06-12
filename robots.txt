@@ -1,2 +1,4 @@
 User-agent : *
 Allow : /
+
+Sitemap: <lien url="http://www..fr/sitemap.xml">http://www..fr/sitemap.xml</lien>
