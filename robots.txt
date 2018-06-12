@@ -1,4 +1,4 @@
 User-agent : *
 Allow : /
 
-Sitemap: <lien url="https://toty11.github.io/sitemap.xml">https://toty11.github.io/sitemap.xml</lien>
+Sitemap: https://toty11.github.io/sitemap.xml
