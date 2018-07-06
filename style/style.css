@@ -35,12 +35,12 @@
 .text-over{
     top:300px;left:30px;text-shadow:0 1px 2px rgba(0,0,0,100);
 }
-@media(max-width:1024px){
+@media (max-width:1024px){
     .text-over{
         display:none;
     }
     .ref{
-        width:100%;
+        display:block;
     }
 }
 
